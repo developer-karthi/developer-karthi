@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @developer-karthi
+- 👋 Hi, I’m @Dev-karthi
 - 👀 I’m interested in App Development
 - 🌱 I’m currently learning Full Stack - MERN
 - 💞️ I’m looking to collaborate on DEV
