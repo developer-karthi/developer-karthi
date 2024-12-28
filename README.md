@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dev-karthi
-- 👀 I’m interested in App Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Full Stack - MERN
 - 💞️ I’m looking to collaborate on DEV
 - 📫 How to reach me developerkarthi1999@gmail.com
